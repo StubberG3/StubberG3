@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StubberG3
-- 👀 I’m interested in games!
-- 🌱 I’m currently learning games!
-- 💞️ I’m looking to collaborate on games!
+- 👀 I’m interested in everything!
+- 🌱 I’m currently learning programming!
 - 📫 How to reach me StubberG3@gmail.com
 
 <!---
