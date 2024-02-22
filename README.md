@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StubberG3
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning Angular!
+- 🌱 I’m currently learning React and NextJS!
 - 📫 How to reach me StubberG3@gmail.com
 
 <!---
